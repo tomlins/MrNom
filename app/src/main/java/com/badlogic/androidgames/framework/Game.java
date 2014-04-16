@@ -1,6 +1,7 @@
 package com.badlogic.androidgames.framework;
 
 public interface Game {
+
     public Input getInput();
 
     public FileIO getFileIO();
